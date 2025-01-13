@@ -13,7 +13,7 @@ def get_requirements(file_path:str)->List[str]:
             requirements.remove(HYPHEN_E_DOT)
         return requirements
 
-author_name =['ABHISHEK UPADHYAY','SHREYA PATHAK','NETRA']
+author_name =['ABHISHEK UPADHYAY','SHREYA ','NETRA']
 author_email_info =['abhishekupadhyay9336@gmail.com','shreya2002pathak@gmail.com','netra01@gmail.com']
 
 
