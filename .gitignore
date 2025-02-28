@@ -2,3 +2,4 @@
 .codegpt
 /data
 /artifacts
+/venv

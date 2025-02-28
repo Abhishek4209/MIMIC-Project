@@ -1,0 +1,10 @@
+[ 2025-02-28 12:22:32,238 ] 15 root - INFO - Options class is Starting here
+[ 2025-02-28 12:23:45,237 ] 1 root - INFO - configure path to save numpy files
+[ 2025-02-28 12:32:28,692 ] 1 root - INFO - configure path to save numpy files
+[ 2025-02-28 12:32:28,702 ] 1 root - INFO - read icu chart events csv, and convert into dataframe
+[ 2025-02-28 14:49:44,711 ] 1 root - INFO - configure path to save numpy files
+[ 2025-02-28 14:49:44,730 ] 1 root - INFO - read icu chart events csv, and convert into dataframe
+[ 2025-02-28 14:52:02,735 ] 1 root - INFO - configure path to save numpy files
+[ 2025-02-28 14:52:02,748 ] 1 root - INFO - read icu chart events csv, and convert into dataframe
+[ 2025-02-28 14:52:10,022 ] 1 root - INFO - configure path to save numpy files
+[ 2025-02-28 14:52:10,033 ] 1 root - INFO - read icu chart events csv, and convert into dataframe
